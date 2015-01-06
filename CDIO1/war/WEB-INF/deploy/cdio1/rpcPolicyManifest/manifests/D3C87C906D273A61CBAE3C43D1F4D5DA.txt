@@ -1,0 +1,2 @@
+serviceClass: cdio02324.client.GreetingService
+path: 5159E10653C6802D1D98C884F641E989.gwt.rpc
